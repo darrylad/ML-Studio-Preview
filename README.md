@@ -2,7 +2,7 @@
 
 An app that helps create tranining set with labeled images and hyperparameters for training new models.
 
-*NOTE: This project is confedintial, and new versions will not be added until approval.
+***NOTE: This project is confidential and governed by [Prof. Ankur Miglani](https://iiti.irins.org/profile/113224) and [Prof. Pavan Kumar Kankar](https://iiti.irins.org/profile/93831). New releases will not be added until approval.**
 
 <img width="700"  alt="home" src="https://github.com/user-attachments/assets/1ccd4091-1721-4f82-97ae-41a911a85daa" />
 

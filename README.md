@@ -12,11 +12,13 @@ An app that helps create tranining set with labeled images and hyperparameters f
 
 <img width="700"  alt="params" src="https://github.com/user-attachments/assets/f3b8d17c-18c4-4277-9b2f-52328b2ddd65" />
 
+<img width="700"  alt="import" src="https://github.com/user-attachments/assets/4f792b7e-20c3-4db1-9d49-db2b98e14cc4" />
+
 <img width="700"  alt="split" src="https://github.com/user-attachments/assets/0c914918-4634-4f6c-8509-8a8cedf4f48c" />
 
 <img width="700"  alt="name" src="https://github.com/user-attachments/assets/92f4f9e3-f626-47ab-8348-93d5d610c5e1" />
 
-<img width="700"  alt="errors" src="https://github.com/user-attachments/assets/7618cbe5-23ad-4f21-94c0-84280c845228" />
+<img width="700"  alt="errors" src="https://github.com/user-attachments/assets/5b5dc824-3e28-488f-abf5-b400a0631638" />
 
 <img width="700"  alt="export" src="https://github.com/user-attachments/assets/47aa33dc-32b6-453a-8e04-ef664acc0aac" />
 

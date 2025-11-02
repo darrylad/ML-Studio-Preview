@@ -35,3 +35,5 @@ An app that helps create tranining set with labeled images and hyperparameters f
 <img    alt="delete" src="https://github.com/user-attachments/assets/227e6cee-b68f-481b-b1eb-4d6a57ac62ff" />
 
 <img    alt="delete confirm" src="https://github.com/user-attachments/assets/c4e9db0e-21cb-402a-8d4f-4e9ddde9ff5f" />
+
+<img  alt="clear cache" src="https://github.com/user-attachments/assets/999f3f4e-94fe-4dd2-91c8-b8c56dc1c921" />

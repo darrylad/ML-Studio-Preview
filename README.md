@@ -1,6 +1,6 @@
 # ML-Studio-Preview
 
-An app that helps create tranining set with labeled images and hyperparameters for training new models.
+A graphical desktop app that enables codeless configuration of image based CNN models like EfficientNet, MobileNet, Inception, and ResNet, with a complementary server software consisting of Dockersised containers that train and store these models. 
 
 ***NOTE: This project is confidential and governed by [Prof. Ankur Miglani](https://iiti.irins.org/profile/113224) and [Prof. Pavan Kumar Kankar](https://iiti.irins.org/profile/93831). New releases will not be added until approval.**
 

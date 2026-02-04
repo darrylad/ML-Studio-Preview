@@ -4,8 +4,6 @@ A graphical desktop app that enables codeless configuration of image based CNN m
 
 ***NOTE: This project is confidential and governed by [Prof. Ankur Miglani](https://iiti.irins.org/profile/113224) and [Prof. Pavan Kumar Kankar](https://iiti.irins.org/profile/93831). New releases will not be added until approval.**
 
-This work is currently being documented, and should be completed by Jan 2026.
-
 <details>
   <summary><h2>Home Page</h2></summary>
 
